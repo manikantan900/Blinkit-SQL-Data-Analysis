@@ -91,16 +91,16 @@ Implemented advanced SQL techniques:
 
 ---
 
-## 📸 Project Screenshots
+## 📸 Project Result Screenshots
 
 ### 🔹 KPI Analysis
-![KPI Analysis](results/kpi_analysis_results.png)
+<img src="results/kpi_analysis_results.png" width="800"/>
 
 ### 🔹 Business Analysis
-![Business Analysis](results/business_analysis_results.png)
+<img src="results/business_analysis_results.png" width="800"/>
 
 ### 🔹 Advanced SQL Analysis
-![Advanced SQL Analysis](results/advanced_analysis_results.png)
+<img src="results/advanced_analysis_results.png" width="800"/>
 
 ---
 
