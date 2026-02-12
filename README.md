@@ -91,6 +91,19 @@ Implemented advanced SQL techniques:
 
 ---
 
+## 📸 Project Screenshots
+
+### 🔹 KPI Analysis
+![KPI Analysis](screenshots/kpi_results.png)
+
+### 🔹 Business Analysis
+![Business Analysis](screenshots/business_analysis.png)
+
+### 🔹 Advanced SQL Analysis
+![Advanced SQL Analysis](screenshots/advanced_analysis.png)
+
+---
+
 ## 👤 Author
 Manikantan  
 SQL | Power BI | Python | Business Analytics
